@@ -23,7 +23,7 @@ public class Main1 {
         pizzeria.addItem(new Item("Pasta napolitana", 17200));
         pizzeria.addItem(new Item("Raviolis", 2200));
 
-        //prueba de edicion hecha por mi mismo
+  
 
         // Creando clientes
         pizzeria.addCliente(new Cliente("Pedro"));
